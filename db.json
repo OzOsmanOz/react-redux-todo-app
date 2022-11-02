@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "1665645184012",
+      "username": "superAdmin",
+      "password": "123123*",
+      "role": "admin"
+    },
+    {
+      "id": "1667372189530",
+      "username": "firstRecord",
+      "password": "123123",
+      "role": "admin"
+    },
+    {
+      "id": "1667389604717",
+      "username": "user 1",
+      "password": "123123",
+      "role": "user"
+    }
+  ],
+  "todos": [
+    {
+      "id": "1667372212126",
+      "text": "firstRecord todo 1 edit",
+      "isDone": false,
+      "date": "02.11.2022",
+      "userId": "1667372189530"
+    },
+    {
+      "id": "1667372225816",
+      "text": "firstRecord todo 2",
+      "isDone": false,
+      "date": "02.11.2022",
+      "userId": "1667372189530"
+    },
+    {
+      "id": "1667389634073",
+      "text": "user 1 todo 1 edit",
+      "isDone": false,
+      "date": "02.11.2022",
+      "userId": "1667389604717"
+    },
+    {
+      "id": "1667389644199",
+      "text": "user 1 todo 2",
+      "isDone": false,
+      "date": "02.11.2022",
+      "userId": "1667389604717"
+    }
+  ]
+}
