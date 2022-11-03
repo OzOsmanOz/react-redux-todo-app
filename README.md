@@ -6,8 +6,8 @@
 ![css3](https://user-images.githubusercontent.com/107813778/199717092-b4546a4b-bea4-49f4-8916-7352802e1edc.png)
 ![bootstrap](https://user-images.githubusercontent.com/107813778/199717093-4f02b5be-1293-417e-b16e-fd389f58cca0.png)
 ![react](https://user-images.githubusercontent.com/107813778/199716811-bca695fd-6d7d-4bec-ba57-859039a41e5c.png)
-![Redux](https://user-images.githubusercontent.com/107813778/199672545-9013b0ce-b33e-48ca-9d8f-169dd8143c58.png)
-![react-router](https://user-images.githubusercontent.com/107813778/199672556-77b76235-6e15-4f11-b495-9a86cf1d96b3.jpg)
+![redux-logo](https://user-images.githubusercontent.com/107813778/199719027-3ca6595d-d8bf-4f1c-a79b-45a504accf98.png)
+![react-router](https://user-images.githubusercontent.com/107813778/199719029-d645d3ed-b555-4608-a690-4d38b5c28d47.png)
 ![json](https://user-images.githubusercontent.com/107813778/199672563-87f4b16f-937f-4596-bd1f-42d72ae67afa.png)
 
 
