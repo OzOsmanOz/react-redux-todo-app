@@ -2,9 +2,9 @@
 
 ## Used technologies
 
-![html5](https://user-images.githubusercontent.com/107813778/199672503-a4b01c2d-bb3c-4978-9bd1-0b8c5839851b.png)
-![css3](https://user-images.githubusercontent.com/107813778/199672512-b9d5fbce-1f40-439c-9ff0-95534c1fb7d5.png)
-![bootstrap](https://user-images.githubusercontent.com/107813778/199672520-4a49c305-57c3-4b95-882a-931e1b9fe439.png)
+![html5](https://user-images.githubusercontent.com/107813778/199717088-923b7581-af10-4623-8fd2-4e64a6f75440.png)
+![css3](https://user-images.githubusercontent.com/107813778/199717092-b4546a4b-bea4-49f4-8916-7352802e1edc.png)
+![bootstrap](https://user-images.githubusercontent.com/107813778/199717093-4f02b5be-1293-417e-b16e-fd389f58cca0.png)
 ![react](https://user-images.githubusercontent.com/107813778/199716811-bca695fd-6d7d-4bec-ba57-859039a41e5c.png)
 ![Redux](https://user-images.githubusercontent.com/107813778/199672545-9013b0ce-b33e-48ca-9d8f-169dd8143c58.png)
 ![react-router](https://user-images.githubusercontent.com/107813778/199672556-77b76235-6e15-4f11-b495-9a86cf1d96b3.jpg)
