@@ -1,4 +1,7 @@
-![webm](https://github.com/OzOsmanOz/react-redux-todo-app/blob/master/react-redux-todo-app.webm)
+[react-redux-todo-app.webm](https://user-images.githubusercontent.com/107813778/199669683-ebceaf30-ab7c-4d97-a7d0-851d0a03482a.webm)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,6 +76,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-[react-redux-todo-app.webm](https://user-images.githubusercontent.com/107813778/199669683-ebceaf30-ab7c-4d97-a7d0-851d0a03482a.webm)
+
 
 
