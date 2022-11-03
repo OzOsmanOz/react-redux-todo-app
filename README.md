@@ -1,4 +1,4 @@
-![Gif](https://github.com/OzOsmanOz/react-redux-todo-app/blob/master/react-redux-todo-app.webm)
+![webm](https://github.com/OzOsmanOz/react-redux-todo-app/blob/master/react-redux-todo-app.webm)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
