@@ -1,9 +1,14 @@
 [react-redux-todo-app.webm](https://user-images.githubusercontent.com/107813778/199669683-ebceaf30-ab7c-4d97-a7d0-851d0a03482a.webm)
 
 
-![bootstrap](https://user-images.githubusercontent.com/107813778/199671607-9b335a5a-96b6-49e2-a7b8-fc40c1a5b0cc.png)
-![css3](https://user-images.githubusercontent.com/107813778/199671743-536ba5e9-3792-4c71-9ed2-f3a9de5e4e43.png)
-![html5](https://user-images.githubusercontent.com/107813778/199671870-18b79abe-900a-4325-b1d0-3a520e13c815.png)
+
+![html5](https://user-images.githubusercontent.com/107813778/199672325-f082e269-a4f3-421d-8773-3ac65a93920e.png)
+![css3](https://user-images.githubusercontent.com/107813778/199672331-5431cadf-445a-4619-b401-35282244e884.png)
+![bootstrap](https://user-images.githubusercontent.com/107813778/199672339-d3440c52-9261-4a35-8188-093a3deb655e.png)
+![react-js](https://user-images.githubusercontent.com/107813778/199672347-23c857dd-f49b-4a2c-a19f-9c23262c9d52.png)
+![Redux](https://user-images.githubusercontent.com/107813778/199672356-2c98f503-03df-4282-b28b-14cc1bf13b21.png)
+![react-router](https://user-images.githubusercontent.com/107813778/199672368-c2e93304-4056-4427-8c93-1a9d52ca6e46.jpg)
+![json](https://user-images.githubusercontent.com/107813778/199672374-a167327c-4275-4693-8e8a-ff610f5ac9cf.png)
 
 
 # Getting Started with Create React App
