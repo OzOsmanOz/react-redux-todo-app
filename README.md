@@ -1,12 +1,7 @@
 [react-redux-todo-app.webm](https://user-images.githubusercontent.com/107813778/199669683-ebceaf30-ab7c-4d97-a7d0-851d0a03482a.webm)
 
-![Redux](https://user-images.githubusercontent.com/107813778/199670735-f90a88ca-3d56-4247-8982-ee9d6d75875a.png)
-![bootstrap](https://user-images.githubusercontent.com/107813778/199670741-95c3f653-8106-47d1-baac-04498101556c.png)
-![css3](https://user-images.githubusercontent.com/107813778/199670744-7599b3c3-01f9-4795-9bf6-fc80609cd96a.png)
-![html5](https://user-images.githubusercontent.com/107813778/199670747-92102dd3-697b-4ad2-9a4f-83efbc213997.png)
-![json](https://user-images.githubusercontent.com/107813778/199670749-a8a65773-13f8-4cd0-a015-c2e3f6e450dc.png)
-![react-js](https://user-images.githubusercontent.com/107813778/199670750-83cbbf8e-a734-4c2d-a4e0-7b2d95dcfbf4.jpg)
-![react-router](https://user-images.githubusercontent.com/107813778/199670752-ae572377-8c39-4376-81ff-635fac9b8f77.jpg)
+
+![bootstrap](https://user-images.githubusercontent.com/107813778/199671607-9b335a5a-96b6-49e2-a7b8-fc40c1a5b0cc.png)
 
 
 # Getting Started with Create React App
