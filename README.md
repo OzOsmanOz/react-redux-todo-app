@@ -1,15 +1,16 @@
 [react-redux-todo-app.webm](https://user-images.githubusercontent.com/107813778/199669683-ebceaf30-ab7c-4d97-a7d0-851d0a03482a.webm)
 
 ## Used technologies
+![htmlicon](https://user-images.githubusercontent.com/107813778/206437359-a00e2847-d363-4e31-8f16-debac10b4498.png)
+![cssicon](https://user-images.githubusercontent.com/107813778/206437354-328a59d7-6082-4831-955b-38de2035ee2a.png)
+![bootstrapicon](https://user-images.githubusercontent.com/107813778/206437351-3847eaba-6b04-423e-8e92-59a6707a4429.png)
+![jsicon](https://user-images.githubusercontent.com/107813778/206437362-28f878e9-b0f5-412f-99c2-bdc6af76a9fc.png)
+![reacticon](https://user-images.githubusercontent.com/107813778/206437364-37fe1387-a98d-4f48-bc4e-6a4ff5d8619b.png)
+![routericon](https://user-images.githubusercontent.com/107813778/206437368-b75da2bc-014b-4df5-9d42-b20cd826545c.jpg)
+![axiosicon](https://user-images.githubusercontent.com/107813778/206437372-e03c0ac8-a4f7-4aef-b911-63c5654a24c1.png)
+![reduxicon](https://user-images.githubusercontent.com/107813778/206437375-1f18f731-8a0e-44ff-806b-5c326f6877a6.png)
+![jsonicon](https://user-images.githubusercontent.com/107813778/206437378-d7bdba0a-d0af-4e95-9536-2af431f0af7d.png)
 
-![html5](https://user-images.githubusercontent.com/107813778/199717088-923b7581-af10-4623-8fd2-4e64a6f75440.png)
-![css3](https://user-images.githubusercontent.com/107813778/199717092-b4546a4b-bea4-49f4-8916-7352802e1edc.png)
-![bootstrap](https://user-images.githubusercontent.com/107813778/199717093-4f02b5be-1293-417e-b16e-fd389f58cca0.png)
-![react](https://user-images.githubusercontent.com/107813778/199716811-bca695fd-6d7d-4bec-ba57-859039a41e5c.png)
-![redux-logo](https://user-images.githubusercontent.com/107813778/199719027-3ca6595d-d8bf-4f1c-a79b-45a504accf98.png)
-![react-router](https://user-images.githubusercontent.com/107813778/199719029-d645d3ed-b555-4608-a690-4d38b5c28d47.png)
-![json](https://user-images.githubusercontent.com/107813778/199672563-87f4b16f-937f-4596-bd1f-42d72ae67afa.png)
-![js](https://user-images.githubusercontent.com/107813778/206405714-86b0f70a-e7b3-4318-beda-382d4a9f4bd6.jpeg)
 
 
 # Getting Started with Create React App
