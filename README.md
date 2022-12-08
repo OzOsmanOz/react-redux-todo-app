@@ -9,6 +9,7 @@
 ![redux-logo](https://user-images.githubusercontent.com/107813778/199719027-3ca6595d-d8bf-4f1c-a79b-45a504accf98.png)
 ![react-router](https://user-images.githubusercontent.com/107813778/199719029-d645d3ed-b555-4608-a690-4d38b5c28d47.png)
 ![json](https://user-images.githubusercontent.com/107813778/199672563-87f4b16f-937f-4596-bd1f-42d72ae67afa.png)
+![js](https://user-images.githubusercontent.com/107813778/206405714-86b0f70a-e7b3-4318-beda-382d4a9f4bd6.jpeg)
 
 
 # Getting Started with Create React App
